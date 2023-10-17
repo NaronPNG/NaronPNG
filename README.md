@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**NaronPNG/NaronPNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 В настоящее время я работаю над ...
 - 🌱 В настоящее время я учусь: В МГОК первый курс програмирования хекслет (https://open-college.ru)
 - 👯 Я хочу сотрудничать c ...
